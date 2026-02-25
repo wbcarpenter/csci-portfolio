@@ -41,10 +41,10 @@ Ethics Papers
 -   **Class:** 
 -   **Grade:**
 
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
+### [The Ethics of Algorithmic Hiring Tools](/pdf/sample_presentation.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class: CSCI 332 Applied Networking** 
+-   **Grade: A**
 
 ---
 

@@ -31,19 +31,19 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [Human Factors in Cyber Security](/pdf/PrinCyberEthicsPaper.pdf)
 
--   **Class:**  
--   **Grade:**
+-   **Class: CSCI 405 Principles of Cybersecurity**  
+-   **Grade: A**
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
-
--   **Class:** 
--   **Grade:**
-
-### [The Ethics of Algorithmic Hiring Tools](/pdf/sample_presentation.pdf)
+### [The Ethics of Algorithmic Hiring Tools](/pdf/AppNetEthicsPaper.pdf)
 
 -   **Class: CSCI 332 Applied Networking** 
+-   **Grade: A**
+
+### [The Deceptive Heart and the Trusted Network: A Reflection on Jeremiah 17:9 in Network Penetration Testing](/pdf/NetPenEthicsPaper.pdf)
+
+-   **Class: CSCI 452 Network Penetration Testing and Ethical Hacking** 
 -   **Grade: A**
 
 ---
